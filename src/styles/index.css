@@ -10,3 +10,70 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.topstick {
+    width: 20px;
+    height: 50px;
+    background-color: black;
+    box-shadow: 10px 10px 10px 10px lightgray;
+    
+}
+.trafficlightbox {
+
+    width: 150px;
+    height: 340px;
+    background-color: black;
+    border-radius: 20px;
+    padding-top: 20px;
+    box-shadow: 10px 10px 10px 10px lightgray;
+    
+}
+
+button.redbottom {
+    
+    background-color: red;
+    width:80px;
+    height: 80px;
+    border-radius: 80px;
+    box-shadow: 0px 0px 15px 5px red, inset 3px 3px 10px;
+    
+    
+}
+
+button.yellowbottom {
+    background-color: yellow;
+    width: 80px;
+    height: 80px;
+    border-radius: 80px;
+    margin-top: 10px;
+    box-shadow: 0px 0px 15px 5px yellow, inset 3px 3px 10px;
+    
+}
+
+button.greenbottom {
+    background-color: green;
+    width: 80px;
+    height: 80px;
+    border-radius: 80px;
+    margin-top: 10px;
+    box-shadow: 0px 0px 15px 5px green, inset 3px 3px 10px;
+    
+    
+}
+
+button {
+    height: 80px;
+    width: 80px;
+    margin-top: 10px;
+   border: none;
+   box-shadow: inset 5px 5px 10px, 10px 10px; 
+  
+   
+}
+
+.Yellow {
+    background-color: rgb(222, 222, 153);
+}
+body {
+    background-image: url(https://wallpaperaccess.com/full/1579890.jpg);
+}
