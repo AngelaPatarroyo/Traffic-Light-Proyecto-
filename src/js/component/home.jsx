@@ -24,7 +24,7 @@ const Home = () => {
 						}}
 						className={`${
 							Red  === true ? "redbottom" : ""
-						} rounded-circle`}>
+						} `}>
 
 					</button>
 
@@ -38,7 +38,7 @@ const Home = () => {
 						}}
 						className={`${
 							Yellow === true ? "yellowbottom" : ""
-						} rounded-circle`}>
+						} `}>
 
 </button>
 
@@ -52,7 +52,7 @@ const Home = () => {
 				}}
 				className={`${
 					Green === true ? "greenbottom" : ""
-				} rounded-circle`}>
+				} `}>
 
 </button>
 
