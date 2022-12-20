@@ -8,7 +8,7 @@ const Home = () => {
 	const [Red, setRed] = useState(false);
 	const [Yellow, setYellow] = useState(false);
 	const [Green, setGreen] = useState(false);
-
+/* use State para manejar los cambios del semaforo */
 	return (
 		<div className="mainbox d:flex">
 			<div className="topstick d:flex text-center mx-auto">
